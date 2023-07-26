@@ -1,0 +1,19 @@
+{
+  "name": "logo-gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mandaark17/Logo-gen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mandaark17/Logo-gen/issues"
+  },
+  "homepage": "https://github.com/mandaark17/Logo-gen#readme"
+}
