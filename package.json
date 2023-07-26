@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mandaark17/Logo-gen/issues"
   },
-  "homepage": "https://github.com/mandaark17/Logo-gen#readme"
+  "homepage": "https://github.com/mandaark17/Logo-gen#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
 }
