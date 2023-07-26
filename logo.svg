@@ -1,6 +1,6 @@
 
       <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
-        <circle cx="150" cy="100" r="50" fill="red" />
-        <text x="50%" y="50%" fill="blue" text-anchor="middle">AAG</text>
+        <circle cx="150" cy="100" r="50" fill="BLUE" />
+        <text x="50%" y="50%" fill="RED" text-anchor="middle">WIN</text>
       </svg>
     
